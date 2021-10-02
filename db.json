@@ -2,7 +2,7 @@
     "preguntas": [
         [{
                 "Id": 1,
-                "Pregunta": "¿Desde cuándo se conoce existe la feria de las manzanas en Zacatlán?",
+                "Pregunta": "¿Desde cuando existe la feria de las manzanas en Zacatlán?",
                 "Opciones": {
                     "Correcta": "A",
                     "A": "Desde 1834",
@@ -24,7 +24,7 @@
             },
             {
                 "Id": 3,
-                "Pregunta": "¿En Zacatlán se producen un promedio de 800mil toneladas por año de manzanas?",
+                "Pregunta": "¿En Zacatlán se producen un promedio de 800,000 toneladas de manzanas por año?",
                 "Opciones": {
                     "Correcta": "A",
                     "A": "Verdadero",
@@ -33,7 +33,7 @@
             },
             {
                 "Id": 4,
-                "Pregunta": "¿Cuál es otro producto minero en Zacatlan a parte del Oro y la plata?",
+                "Pregunta": "A parte del oro y la plata, ¿Cuál es otro producto minero en Zacatlán?",
                 "Opciones": {
                     "Correcta": "D",
                     "A": "Niquel",
@@ -44,7 +44,7 @@
             },
             {
                 "Id": 5,
-                "Pregunta": "¿Cuántas bibliotecas hay en Zacatlan?",
+                "Pregunta": "¿Cuántas bibliotecas hay en Zacatlán?",
                 "Opciones": {
                     "Correcta": "C",
                     "A": "40",
@@ -66,13 +66,13 @@
             },
             {
                 "Id": 7,
-                "Pregunta": "¿Cuando se celebra la feria de Zacatrlan de las manzanas?",
+                "Pregunta": "¿Cuándo se celebra la feria de Zacatlán de las manzanas?",
                 "Opciones": {
                     "Correcta": "B",
-                    "A": "Mayo la primer semana del mes",
-                    "B": "Agosto la semana del dia 15",
-                    "C": "Diciembre la semana del dia 12",
-                    "D": "Febrero la ultima semana del mes"
+                    "A": "Mayo, la primera semana del mes",
+                    "B": "Agosto, la semana del día 15",
+                    "C": "Diciembre, la semana del dia 12",
+                    "D": "Febrero, la última semana del mes"
                 }
             }
         
@@ -80,6 +80,6 @@
 ],
 "lugares": [{
     "id": 1,
-    "Descripcion": "Zacatlán de las Manzanas"
+    "Descripción": "Zacatlán de las Manzanas"
 }]
 }
